@@ -1,0 +1,37 @@
+body {
+    background-image:url(/img/loginBackground.jpg);
+    -moz-background-size:cover;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+.bigdiv
+{
+    position:fixed;left:35%;top:35%;
+    width:500px;
+    height:300px;
+    background-image:url(/img/loginpanel.jpg);
+    filter:alpha(opacity=40);
+    -moz-opacity:0.4;
+    -khtml-opacity: 0.4;
+    opacity: 0.4;
+    text-align:left;
+    text-align:center;
+    margin:0 auto;
+    border:2px solid;
+    border-radius:35px;
+    -moz-border-radius:35px;
+    -moz-border-radius:35px;
+    -webkit-border-radius:35px;
+    -o-border-radius:35px;
+
+}
+
+.litterdiv
+{
+    position:fixed;left:40%;top:40%;
+    width:250px;
+    height:200px;
+    margin:0 auto;
+    color:seashell;
+}

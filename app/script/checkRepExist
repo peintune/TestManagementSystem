@@ -1,0 +1,10 @@
+#!/usr/bin/expect -f
+spawn ssh www@*
+set repName [lindex $argv 0]
+expect {
+"yes/no" { send "yes\r";exp_continue }
+"password:" { send "www\r" }
+}
+expect "~"
+send "mkdir /data*me\r"
+expect eof

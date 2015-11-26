@@ -1,0 +1,31 @@
+#!/usr/bin/expect -f
+set needClone [ lindex $argv 0 ]
+if { $needClone =="clone" } {
+spawn sudo rm -rf ../app/script/ciDeploy
+spawn sudo mkdir ../app/script/ciDeploy
+spawn sudo git clone 8../app/script/ciDeploy
+expect {
+"Username" { send "8\r";exp_continue }
+"Password" { send "8\r"}
+}
+} else {
+spawn sudo git -C ../app/script/ciDeploy pull origin master
+expect {
+"Username" { send "8\r";exp_continue }
+"Password" { send "8\r"}
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

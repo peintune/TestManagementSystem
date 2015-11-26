@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad76edc4-8a99-42dd-921d-440a2fa2faf3" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+    </list>
+    <ignored path="autotestsystem.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="D:\PhpstormProjects\autotestsystem" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="autotestsystem" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="tools.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/tools/tools.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="158" column="36" selection-start="5541" selection-end="5555" vertical-scroll-proportion="0.0" vertical-offset="2808" max-vertical-offset="9443">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codeOperate.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/tools/codeOperate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="568" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="2375">
+              <folding>
+                <marker date="1431942694587" expanded="false" signature="2237:2284" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToolsController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/ToolsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="67" selection-start="4203" selection-end="4203" vertical-scroll-proportion="0.0" vertical-offset="2109" max-vertical-offset="7049">
+              <folding>
+                <marker date="1434527828745" expanded="true" signature="5683:5765" placeholder="select sMess..t_sms_log..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autobuild" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/script/autobuild">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="1" selection-start="538" selection-end="538" vertical-scroll-proportion="0.22832052" vertical-offset="172" max-vertical-offset="1159">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userExists" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/script/tmp/userExists">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/home/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="59" selection-start="489" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="2185">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="13" selection-start="628" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="836">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeviceManageController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/DeviceManageController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="63" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="3819">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="43" selection-start="3588" selection-end="3588" vertical-scroll-proportion="0.0" vertical-offset="2109" max-vertical-offset="3743">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/global/global.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hekun" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/script/checkRepExist" />
+        <option value="$PROJECT_DIR$/app/script/getNewRep" />
+        <option value="$PROJECT_DIR$/public/js/device/device_Manage.js" />
+        <option value="$PROJECT_DIR$/app/script/updateCode" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/app/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/home.css" />
+        <option value="$PROJECT_DIR$/app/script/getOnlineSMS" />
+        <option value="$PROJECT_DIR$/public/js/tools/tools.js" />
+        <option value="$PROJECT_DIR$/app/bll/codeOperateBll.php" />
+        <option value="$PROJECT_DIR$/public/js/tools/codeOperate.js" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/controllers/LoginController.php" />
+        <option value="$PROJECT_DIR$/app/config/database.php" />
+        <option value="$PROJECT_DIR$/app/script/flush_memory" />
+        <option value="$PROJECT_DIR$/app/controllers/ToolsController.php" />
+        <option value="$PROJECT_DIR$/app/script/autobuild" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1634" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpUndefinedFunctionInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestsystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestsystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestsystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestsystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestsystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="ajax" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="192" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="192" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="195" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="867" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="194" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="185" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="198" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="869" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PhpstormProjects\autotestsystem\app\script" />
+      <recent name="D:\PhpstormProjects\autotestsystem\app\script\tmp" />
+      <recent name="D:\PhpstormProjects\autotestsystem\public\js\jquery" />
+      <recent name="D:\PhpstormProjects\autotestsystem\public\img" />
+      <recent name="D:\PhpstormProjects\autotestsystem\public\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad76edc4-8a99-42dd-921d-440a2fa2faf3" name="Default" comment="" />
+      <created>1426662759553</created>
+      <updated>1426662759553</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update autosystem">
+      <created>1426663182023</created>
+      <updated>1426663182023</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update autosystem">
+      <created>1426665686304</created>
+      <updated>1426665686304</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update autosystem">
+      <created>1426665789630</created>
+      <updated>1426665789630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update autosystem">
+      <created>1426665993755</created>
+      <updated>1426665993755</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update autosystem">
+      <created>1426666082389</created>
+      <updated>1426666082389</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update autosystem">
+      <created>1426666897778</created>
+      <updated>1426666897778</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update autosystem">
+      <created>1426667120035</created>
+      <updated>1426667120035</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update autosystem">
+      <created>1426671397363</created>
+      <updated>1426671397363</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update autosystem">
+      <created>1426671506240</created>
+      <updated>1426671506240</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update autosystem">
+      <created>1426671634643</created>
+      <updated>1426671634643</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update autosystem">
+      <created>1426671776834</created>
+      <updated>1426671776834</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update autosystem">
+      <created>1426671793485</created>
+      <updated>1426671793485</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update autosystem">
+      <created>1426671897370</created>
+      <updated>1426671897370</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update autosystem">
+      <created>1426672017195</created>
+      <updated>1426672017195</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update autosystem">
+      <created>1426672051279</created>
+      <updated>1426672051279</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update autosystem">
+      <created>1426672157768</created>
+      <updated>1426672157768</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update autosystem">
+      <created>1426672190415</created>
+      <updated>1426672190415</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update autosystem">
+      <created>1426727851734</created>
+      <updated>1426727851734</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update autosystem">
+      <created>1426728062427</created>
+      <updated>1426728062427</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update autosystem">
+      <created>1426728238698</created>
+      <updated>1426728238698</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update autosystem">
+      <created>1426728533746</created>
+      <updated>1426728533746</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update autosystem">
+      <created>1426728718970</created>
+      <updated>1426728718970</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update autosystem">
+      <created>1426728819660</created>
+      <updated>1426728819660</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update autosystem">
+      <created>1426731182465</created>
+      <updated>1426731182465</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update autosystem">
+      <created>1426731357619</created>
+      <updated>1426731357619</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update autosystem">
+      <created>1426731503884</created>
+      <updated>1426731503884</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update autosystem">
+      <created>1426731702809</created>
+      <updated>1426731702809</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update autosystem">
+      <created>1426731974668</created>
+      <updated>1426731974668</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update autosystem">
+      <created>1426732071001</created>
+      <updated>1426732071001</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update autosystem">
+      <created>1426732368374</created>
+      <updated>1426732368374</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update autosystem">
+      <created>1426732517184</created>
+      <updated>1426732517184</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update autosystem">
+      <created>1426732653953</created>
+      <updated>1426732653953</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update autosystem">
+      <created>1426732748168</created>
+      <updated>1426732748168</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update autosystem">
+      <created>1426732791000</created>
+      <updated>1426732791000</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update autosystem">
+      <created>1426732909130</created>
+      <updated>1426732909130</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update autosystem">
+      <created>1426734860377</created>
+      <updated>1426734860377</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update autosystem">
+      <created>1426735015544</created>
+      <updated>1426735015544</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update autosystem">
+      <created>1426735188065</created>
+      <updated>1426735188065</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update autosystem">
+      <created>1426735449634</created>
+      <updated>1426735449634</updated>
+    </task>
+    <task id="LOCAL-00040" summary="update autosystem">
+      <created>1426735550264</created>
+      <updated>1426735550264</updated>
+    </task>
+    <task id="LOCAL-00041" summary="update autosystem">
+      <created>1426736806249</created>
+      <updated>1426736806249</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update autosystem">
+      <created>1426736999843</created>
+      <updated>1426736999843</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update autosystem">
+      <created>1426737138918</created>
+      <updated>1426737138918</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update autosystem">
+      <created>1426737188593</created>
+      <updated>1426737188593</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update autosystem">
+      <created>1426737308500</created>
+      <updated>1426737308500</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update autosystem">
+      <created>1426737354497</created>
+      <updated>1426737354497</updated>
+    </task>
+    <task id="LOCAL-00047" summary="update autosystem">
+      <created>1426737467796</created>
+      <updated>1426737467796</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update autosystem">
+      <created>1426737538351</created>
+      <updated>1426737538351</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update autosystem">
+      <created>1426737681487</created>
+      <updated>1426737681487</updated>
+    </task>
+    <task id="LOCAL-00050" summary="update autosystem">
+      <created>1426737777349</created>
+      <updated>1426737777349</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update autosystem">
+      <created>1426737833372</created>
+      <updated>1426737833372</updated>
+    </task>
+    <task id="LOCAL-00052" summary="update autosystem">
+      <created>1426742849640</created>
+      <updated>1426742849640</updated>
+    </task>
+    <task id="LOCAL-00053" summary="update autosystem">
+      <created>1426743102213</created>
+      <updated>1426743102213</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update autosystem">
+      <created>1426743563190</created>
+      <updated>1426743563190</updated>
+    </task>
+    <task id="LOCAL-00055" summary="update autosystem">
+      <created>1426750805127</created>
+      <updated>1426750805127</updated>
+    </task>
+    <task id="LOCAL-00056" summary="update autosystem">
+      <created>1426750990850</created>
+      <updated>1426750990852</updated>
+    </task>
+    <task id="LOCAL-00057" summary="update autosystem">
+      <created>1426751070251</created>
+      <updated>1426751070251</updated>
+    </task>
+    <task id="LOCAL-00058" summary="update autosystem">
+      <created>1426751092499</created>
+      <updated>1426751092499</updated>
+    </task>
+    <task id="LOCAL-00059" summary="update autosystem">
+      <created>1426751319290</created>
+      <updated>1426751319290</updated>
+    </task>
+    <task id="LOCAL-00060" summary="update autosystem">
+      <created>1426752042202</created>
+      <updated>1426752042203</updated>
+    </task>
+    <task id="LOCAL-00061" summary="update autosystem">
+      <created>1426752148933</created>
+      <updated>1426752148934</updated>
+    </task>
+    <task id="LOCAL-00062" summary="update autosystem">
+      <created>1426752698464</created>
+      <updated>1426752698464</updated>
+    </task>
+    <task id="LOCAL-00063" summary="update autosystem">
+      <created>1426753399118</created>
+      <updated>1426753399118</updated>
+    </task>
+    <task id="LOCAL-00064" summary="update autosystem">
+      <created>1426753531040</created>
+      <updated>1426753531040</updated>
+    </task>
+    <task id="LOCAL-00065" summary="update autosystem">
+      <created>1426753648339</created>
+      <updated>1426753648339</updated>
+    </task>
+    <task id="LOCAL-00066" summary="update autosystem">
+      <created>1426753981643</created>
+      <updated>1426753981643</updated>
+    </task>
+    <task id="LOCAL-00067" summary="update autosystem">
+      <created>1426754052946</created>
+      <updated>1426754052947</updated>
+    </task>
+    <task id="LOCAL-00068" summary="update autosystem">
+      <created>1426754312887</created>
+      <updated>1426754312887</updated>
+    </task>
+    <task id="LOCAL-00069" summary="update autosystem">
+      <created>1426754370332</created>
+      <updated>1426754370333</updated>
+    </task>
+    <task id="LOCAL-00070" summary="update autosystem">
+      <created>1426754452845</created>
+      <updated>1426754452845</updated>
+    </task>
+    <task id="LOCAL-00071" summary="update autosystem">
+      <created>1426754673820</created>
+      <updated>1426754673820</updated>
+    </task>
+    <task id="LOCAL-00072" summary="update autosystem">
+      <created>1426754796230</created>
+      <updated>1426754796230</updated>
+    </task>
+    <task id="LOCAL-00073" summary="update autosystem">
+      <created>1426754915892</created>
+      <updated>1426754915892</updated>
+    </task>
+    <task id="LOCAL-00074" summary="update autosystem">
+      <created>1426755027352</created>
+      <updated>1426755027352</updated>
+    </task>
+    <task id="LOCAL-00075" summary="update autosystem">
+      <created>1426755448413</created>
+      <updated>1426755448413</updated>
+    </task>
+    <task id="LOCAL-00076" summary="update autosystem">
+      <created>1426756966558</created>
+      <updated>1426756966558</updated>
+    </task>
+    <task id="LOCAL-00077" summary="update autosystem">
+      <created>1426757089487</created>
+      <updated>1426757089488</updated>
+    </task>
+    <task id="LOCAL-00078" summary="update autosystem">
+      <created>1426757236746</created>
+      <updated>1426757236746</updated>
+    </task>
+    <task id="LOCAL-00079" summary="update autosystem">
+      <created>1427078890078</created>
+      <updated>1427078890122</updated>
+    </task>
+    <task id="LOCAL-00080" summary="update autosystem">
+      <created>1427079094465</created>
+      <updated>1427079094465</updated>
+    </task>
+    <task id="LOCAL-00081" summary="update autosystem">
+      <created>1427079230015</created>
+      <updated>1427079230015</updated>
+    </task>
+    <task id="LOCAL-00082" summary="update autosystem">
+      <created>1427079410163</created>
+      <updated>1427079410163</updated>
+    </task>
+    <task id="LOCAL-00083" summary="update autosystem">
+      <created>1427079522568</created>
+      <updated>1427079522568</updated>
+    </task>
+    <task id="LOCAL-00084" summary="update autosystem">
+      <created>1427079677077</created>
+      <updated>1427079677077</updated>
+    </task>
+    <task id="LOCAL-00085" summary="update autosystem">
+      <created>1427079863783</created>
+      <updated>1427079863783</updated>
+    </task>
+    <task id="LOCAL-00086" summary="update autosystem">
+      <created>1427080121637</created>
+      <updated>1427080121637</updated>
+    </task>
+    <task id="LOCAL-00087" summary="update autosystem">
+      <created>1427080185970</created>
+      <updated>1427080185970</updated>
+    </task>
+    <task id="LOCAL-00088" summary="update autosystem">
+      <created>1427080300123</created>
+      <updated>1427080300123</updated>
+    </task>
+    <task id="LOCAL-00089" summary="update autosystem">
+      <created>1427080470392</created>
+      <updated>1427080470392</updated>
+    </task>
+    <task id="LOCAL-00090" summary="update autosystem">
+      <created>1427080646848</created>
+      <updated>1427080646848</updated>
+    </task>
+    <task id="LOCAL-00091" summary="update autosystem">
+      <created>1427081242293</created>
+      <updated>1427081242293</updated>
+    </task>
+    <task id="LOCAL-00092" summary="update autosystem">
+      <created>1427081592387</created>
+      <updated>1427081592387</updated>
+    </task>
+    <task id="LOCAL-00093" summary="update autosystem">
+      <created>1427081960688</created>
+      <updated>1427081960688</updated>
+    </task>
+    <task id="LOCAL-00094" summary="update autosystem">
+      <created>1427082256698</created>
+      <updated>1427082256698</updated>
+    </task>
+    <task id="LOCAL-00095" summary="update autosystem">
+      <created>1427082391723</created>
+      <updated>1427082391723</updated>
+    </task>
+    <task id="LOCAL-00096" summary="update autosystem">
+      <created>1427083413610</created>
+      <updated>1427083413610</updated>
+    </task>
+    <task id="LOCAL-00097" summary="update autosystem">
+      <created>1427083549853</created>
+      <updated>1427083549853</updated>
+    </task>
+    <task id="LOCAL-00098" summary="update autosystem">
+      <created>1427083889954</created>
+      <updated>1427083889954</updated>
+    </task>
+    <task id="LOCAL-00099" summary="update autosystem">
+      <created>1427084054780</created>
+      <updated>1427084054780</updated>
+    </task>
+    <task id="LOCAL-00100" summary="update autosystem">
+      <created>1427091311164</created>
+      <updated>1427091311164</updated>
+    </task>
+    <task id="LOCAL-00101" summary="update autosystem">
+      <created>1427099697150</created>
+      <updated>1427099697150</updated>
+    </task>
+    <task id="LOCAL-00102" summary="update autosystem">
+      <created>1427099824039</created>
+      <updated>1427099824039</updated>
+    </task>
+    <task id="LOCAL-00103" summary="update autosystem">
+      <created>1427100210016</created>
+      <updated>1427100210016</updated>
+    </task>
+    <task id="LOCAL-00104" summary="update autosystem">
+      <created>1427100821353</created>
+      <updated>1427100821353</updated>
+    </task>
+    <task id="LOCAL-00105" summary="update autosystem">
+      <created>1427101038113</created>
+      <updated>1427101038113</updated>
+    </task>
+    <task id="LOCAL-00106" summary="update autosystem">
+      <created>1427101120234</created>
+      <updated>1427101120234</updated>
+    </task>
+    <task id="LOCAL-00107" summary="update autosystem">
+      <created>1427101410489</created>
+      <updated>1427101410489</updated>
+    </task>
+    <task id="LOCAL-00108" summary="update autosystem">
+      <created>1427101739167</created>
+      <updated>1427101739167</updated>
+    </task>
+    <task id="LOCAL-00109" summary="update autosystem">
+      <created>1427102050688</created>
+      <updated>1427102050688</updated>
+    </task>
+    <task id="LOCAL-00110" summary="update autosystem">
+      <created>1427102835766</created>
+      <updated>1427102835766</updated>
+    </task>
+    <task id="LOCAL-00111" summary="update autosystem">
+      <created>1427102857751</created>
+      <updated>1427102857751</updated>
+    </task>
+    <task id="LOCAL-00112" summary="update autosystem">
+      <created>1427103022544</created>
+      <updated>1427103022544</updated>
+    </task>
+    <task id="LOCAL-00113" summary="update autosystem">
+      <created>1427103459241</created>
+      <updated>1427103459241</updated>
+    </task>
+    <task id="LOCAL-00114" summary="update autosystem">
+      <created>1427265844383</created>
+      <updated>1427265844383</updated>
+    </task>
+    <task id="LOCAL-00115" summary="update autosystem">
+      <created>1427265929899</created>
+      <updated>1427265929899</updated>
+    </task>
+    <task id="LOCAL-00116" summary="update autosystem">
+      <created>1427266156428</created>
+      <updated>1427266156429</updated>
+    </task>
+    <task id="LOCAL-00117" summary="update autosystem">
+      <created>1427696183874</created>
+      <updated>1427696183874</updated>
+    </task>
+    <task id="LOCAL-00118" summary="update autosystem">
+      <created>1427767256672</created>
+      <updated>1427767256672</updated>
+    </task>
+    <task id="LOCAL-00119" summary="update autosystem">
+      <created>1427767635743</created>
+      <updated>1427767635744</updated>
+    </task>
+    <task id="LOCAL-00120" summary="update autosystem">
+      <created>1427770853903</created>
+      <updated>1427770853903</updated>
+    </task>
+    <task id="LOCAL-00121" summary="update autosystem">
+      <created>1427771088187</created>
+      <updated>1427771088187</updated>
+    </task>
+    <task id="LOCAL-00122" summary="update autosystem">
+      <created>1427771135772</created>
+      <updated>1427771135773</updated>
+    </task>
+    <task id="LOCAL-00123" summary="update autosystem">
+      <created>1427771229274</created>
+      <updated>1427771229274</updated>
+    </task>
+    <task id="LOCAL-00124" summary="update autosystem">
+      <created>1427772920181</created>
+      <updated>1427772920181</updated>
+    </task>
+    <task id="LOCAL-00125" summary="update autosystem">
+      <created>1427773023396</created>
+      <updated>1427773023396</updated>
+    </task>
+    <task id="LOCAL-00126" summary="update autosystem">
+      <created>1427773124269</created>
+      <updated>1427773124269</updated>
+    </task>
+    <task id="LOCAL-00127" summary="update autosystem">
+      <created>1427773198938</created>
+      <updated>1427773198938</updated>
+    </task>
+    <task id="LOCAL-00128" summary="update autosystem">
+      <created>1427773696520</created>
+      <updated>1427773696520</updated>
+    </task>
+    <task id="LOCAL-00129" summary="update autosystem">
+      <created>1427773810116</created>
+      <updated>1427773810116</updated>
+    </task>
+    <task id="LOCAL-00130" summary="update autosystem">
+      <created>1427775417064</created>
+      <updated>1427775417064</updated>
+    </task>
+    <task id="LOCAL-00131" summary="update autosystem">
+      <created>1427775500301</created>
+      <updated>1427775500301</updated>
+    </task>
+    <task id="LOCAL-00132" summary="update autosystem">
+      <created>1427784663876</created>
+      <updated>1427784663876</updated>
+    </task>
+    <task id="LOCAL-00133" summary="update autosystem">
+      <created>1427785475369</created>
+      <updated>1427785475369</updated>
+    </task>
+    <task id="LOCAL-00134" summary="update autosystem">
+      <created>1427785554566</created>
+      <updated>1427785554567</updated>
+    </task>
+    <task id="LOCAL-00135" summary="update autosystem">
+      <created>1427785629310</created>
+      <updated>1427785629310</updated>
+    </task>
+    <task id="LOCAL-00136" summary="update autosystem">
+      <created>1427785651677</created>
+      <updated>1427785651678</updated>
+    </task>
+    <task id="LOCAL-00137" summary="update autosystem">
+      <created>1427786435242</created>
+      <updated>1427786435242</updated>
+    </task>
+    <task id="LOCAL-00138" summary="update autosystem">
+      <created>1427791897670</created>
+      <updated>1427791897670</updated>
+    </task>
+    <task id="LOCAL-00139" summary="update autosystem">
+      <created>1427792899929</created>
+      <updated>1427792899929</updated>
+    </task>
+    <task id="LOCAL-00140" summary="update autosystem">
+      <created>1427794531852</created>
+      <updated>1427794531852</updated>
+    </task>
+    <task id="LOCAL-00141" summary="update autosystem">
+      <created>1427794591411</created>
+      <updated>1427794591411</updated>
+    </task>
+    <task id="LOCAL-00142" summary="update autosystem">
+      <created>1428566674316</created>
+      <updated>1428566674316</updated>
+    </task>
+    <task id="LOCAL-00143" summary="update autosystem">
+      <created>1428566730496</created>
+      <updated>1428566730496</updated>
+    </task>
+    <task id="LOCAL-00144" summary="update autosystem">
+      <created>1428652819423</created>
+      <updated>1428652819423</updated>
+    </task>
+    <task id="LOCAL-00145" summary="update autosystem">
+      <created>1428652928231</created>
+      <updated>1428652928231</updated>
+    </task>
+    <task id="LOCAL-00146" summary="update autosystem">
+      <created>1428654236607</created>
+      <updated>1428654236607</updated>
+    </task>
+    <task id="LOCAL-00147" summary="update autosystem">
+      <created>1428654421288</created>
+      <updated>1428654421288</updated>
+    </task>
+    <task id="LOCAL-00148" summary="update autosystem">
+      <created>1428654574273</created>
+      <updated>1428654574273</updated>
+    </task>
+    <task id="LOCAL-00149" summary="update autosystem">
+      <created>1428657269867</created>
+      <updated>1428657269867</updated>
+    </task>
+    <task id="LOCAL-00150" summary="update autosystem">
+      <created>1428904683461</created>
+      <updated>1428904683462</updated>
+    </task>
+    <task id="LOCAL-00151" summary="update autosystem">
+      <created>1428905256121</created>
+      <updated>1428905256121</updated>
+    </task>
+    <task id="LOCAL-00152" summary="update autosystem">
+      <created>1428905592512</created>
+      <updated>1428905592513</updated>
+    </task>
+    <task id="LOCAL-00153" summary="update autosystem">
+      <created>1428906134869</created>
+      <updated>1428906134869</updated>
+    </task>
+    <task id="LOCAL-00154" summary="update autosystem">
+      <created>1428906321178</created>
+      <updated>1428906321178</updated>
+    </task>
+    <task id="LOCAL-00155" summary="update autosystem">
+      <created>1428908328491</created>
+      <updated>1428908328491</updated>
+    </task>
+    <task id="LOCAL-00156" summary="update autosystem">
+      <created>1428910495902</created>
+      <updated>1428910495902</updated>
+    </task>
+    <task id="LOCAL-00157" summary="update autosystem">
+      <created>1428911923970</created>
+      <updated>1428911923970</updated>
+    </task>
+    <task id="LOCAL-00158" summary="update autosystem">
+      <created>1428919153278</created>
+      <updated>1428919153279</updated>
+    </task>
+    <task id="LOCAL-00159" summary="update autosystem">
+      <created>1428919187716</created>
+      <updated>1428919187716</updated>
+    </task>
+    <task id="LOCAL-00160" summary="update autosystem">
+      <created>1428974980107</created>
+      <updated>1428974980107</updated>
+    </task>
+    <task id="LOCAL-00161" summary="update autosystem">
+      <created>1428975158033</created>
+      <updated>1428975158033</updated>
+    </task>
+    <task id="LOCAL-00162" summary="update autosystem">
+      <created>1428975260516</created>
+      <updated>1428975260516</updated>
+    </task>
+    <task id="LOCAL-00163" summary="update autosystem">
+      <created>1428978746093</created>
+      <updated>1428978746093</updated>
+    </task>
+    <task id="LOCAL-00164" summary="update autosystem">
+      <created>1428978946613</created>
+      <updated>1428978946613</updated>
+    </task>
+    <task id="LOCAL-00165" summary="update autosystem">
+      <created>1428979251222</created>
+      <updated>1428979251223</updated>
+    </task>
+    <task id="LOCAL-00166" summary="update autosystem">
+      <created>1428979637923</created>
+      <updated>1428979637923</updated>
+    </task>
+    <task id="LOCAL-00167" summary="update autosystem">
+      <created>1428982331642</created>
+      <updated>1428982331643</updated>
+    </task>
+    <task id="LOCAL-00168" summary="update autosystem">
+      <created>1428982388884</created>
+      <updated>1428982388884</updated>
+    </task>
+    <task id="LOCAL-00169" summary="update autosystem">
+      <created>1428982426062</created>
+      <updated>1428982426062</updated>
+    </task>
+    <task id="LOCAL-00170" summary="update autosystem">
+      <created>1428983650025</created>
+      <updated>1428983650025</updated>
+    </task>
+    <task id="LOCAL-00171" summary="update autosystem">
+      <created>1428984206551</created>
+      <updated>1428984206551</updated>
+    </task>
+    <task id="LOCAL-00172" summary="update autosystem">
+      <created>1428992492859</created>
+      <updated>1428992492859</updated>
+    </task>
+    <task id="LOCAL-00173" summary="update autosystem">
+      <created>1428995083142</created>
+      <updated>1428995083142</updated>
+    </task>
+    <task id="LOCAL-00174" summary="update autosystem">
+      <created>1428995237748</created>
+      <updated>1428995237748</updated>
+    </task>
+    <task id="LOCAL-00175" summary="update autosystem">
+      <created>1428996933464</created>
+      <updated>1428996933465</updated>
+    </task>
+    <task id="LOCAL-00176" summary="update autosystem">
+      <created>1428997049934</created>
+      <updated>1428997049934</updated>
+    </task>
+    <task id="LOCAL-00177" summary="update autosystem">
+      <created>1428997224436</created>
+      <updated>1428997224437</updated>
+    </task>
+    <task id="LOCAL-00178" summary="update autosystem">
+      <created>1428997491800</created>
+      <updated>1428997491800</updated>
+    </task>
+    <task id="LOCAL-00179" summary="update autosystem">
+      <created>1428997608258</created>
+      <updated>1428997608258</updated>
+    </task>
+    <task id="LOCAL-00180" summary="update autosystem">
+      <created>1428998588391</created>
+      <updated>1428998588392</updated>
+    </task>
+    <task id="LOCAL-00181" summary="update autosystem">
+      <created>1428999017849</created>
+      <updated>1428999017850</updated>
+    </task>
+    <task id="LOCAL-00182" summary="update autosystem">
+      <created>1428999077219</created>
+      <updated>1428999077219</updated>
+    </task>
+    <task id="LOCAL-00183" summary="update autosystem">
+      <created>1428999267153</created>
+      <updated>1428999267153</updated>
+    </task>
+    <task id="LOCAL-00184" summary="update autosystem">
+      <created>1428999386758</created>
+      <updated>1428999386759</updated>
+    </task>
+    <task id="LOCAL-00185" summary="update autosystem">
+      <created>1428999580663</created>
+      <updated>1428999580663</updated>
+    </task>
+    <task id="LOCAL-00186" summary="update autosystem">
+      <created>1428999923482</created>
+      <updated>1428999923482</updated>
+    </task>
+    <task id="LOCAL-00187" summary="update autosystem">
+      <created>1429000208265</created>
+      <updated>1429000208266</updated>
+    </task>
+    <task id="LOCAL-00188" summary="update autosystem">
+      <created>1429001433207</created>
+      <updated>1429001433208</updated>
+    </task>
+    <task id="LOCAL-00189" summary="update autosystem">
+      <created>1429001663931</created>
+      <updated>1429001663931</updated>
+    </task>
+    <task id="LOCAL-00190" summary="update autosystem">
+      <created>1429002044767</created>
+      <updated>1429002044767</updated>
+    </task>
+    <task id="LOCAL-00191" summary="update autosystem">
+      <created>1429002065413</created>
+      <updated>1429002065413</updated>
+    </task>
+    <task id="LOCAL-00192" summary="update autosystem">
+      <created>1429002747226</created>
+      <updated>1429002747226</updated>
+    </task>
+    <task id="LOCAL-00193" summary="update autosystem">
+      <created>1429003644850</created>
+      <updated>1429003644850</updated>
+    </task>
+    <task id="LOCAL-00194" summary="update autosystem">
+      <created>1429003981064</created>
+      <updated>1429003981064</updated>
+    </task>
+    <task id="LOCAL-00195" summary="update autosystem">
+      <created>1429065897265</created>
+      <updated>1429065897265</updated>
+    </task>
+    <task id="LOCAL-00196" summary="update autosystem">
+      <created>1429065970863</created>
+      <updated>1429065970863</updated>
+    </task>
+    <task id="LOCAL-00197" summary="update autosystem">
+      <created>1429066389119</created>
+      <updated>1429066389119</updated>
+    </task>
+    <task id="LOCAL-00198" summary="update autosystem">
+      <created>1429078644710</created>
+      <updated>1429078644711</updated>
+    </task>
+    <task id="LOCAL-00199" summary="update autosystem">
+      <created>1429078737955</created>
+      <updated>1429078737956</updated>
+    </task>
+    <task id="LOCAL-00200" summary="update autosystem">
+      <created>1429079129299</created>
+      <updated>1429079129299</updated>
+    </task>
+    <task id="LOCAL-00201" summary="update autosystem">
+      <created>1429079268989</created>
+      <updated>1429079268989</updated>
+    </task>
+    <task id="LOCAL-00202" summary="update autosystem">
+      <created>1429079695322</created>
+      <updated>1429079695322</updated>
+    </task>
+    <task id="LOCAL-00203" summary="update autosystem">
+      <created>1429088913036</created>
+      <updated>1429088913036</updated>
+    </task>
+    <task id="LOCAL-00204" summary="update autosystem">
+      <created>1429089306856</created>
+      <updated>1429089306856</updated>
+    </task>
+    <task id="LOCAL-00205" summary="update autosystem">
+      <created>1429090952262</created>
+      <updated>1429090952263</updated>
+    </task>
+    <task id="LOCAL-00206" summary="update autosystem">
+      <created>1429091204228</created>
+      <updated>1429091204228</updated>
+    </task>
+    <task id="LOCAL-00207" summary="update autosystem">
+      <created>1429091379955</created>
+      <updated>1429091379955</updated>
+    </task>
+    <task id="LOCAL-00208" summary="update autosystem">
+      <created>1429091538557</created>
+      <updated>1429091538557</updated>
+    </task>
+    <task id="LOCAL-00209" summary="update autosystem">
+      <created>1429161965170</created>
+      <updated>1429161965170</updated>
+    </task>
+    <task id="LOCAL-00210" summary="update autosystem">
+      <created>1429168133987</created>
+      <updated>1429168133988</updated>
+    </task>
+    <task id="LOCAL-00211" summary="update autosystem">
+      <created>1429168208338</created>
+      <updated>1429168208338</updated>
+    </task>
+    <task id="LOCAL-00212" summary="update autosystem">
+      <created>1429168430933</created>
+      <updated>1429168430933</updated>
+    </task>
+    <task id="LOCAL-00213" summary="update autosystem">
+      <created>1429170027464</created>
+      <updated>1429170027465</updated>
+    </task>
+    <task id="LOCAL-00214" summary="update autosystem">
+      <created>1429170150754</created>
+      <updated>1429170150754</updated>
+    </task>
+    <task id="LOCAL-00215" summary="update autosystem">
+      <created>1429170262357</created>
+      <updated>1429170262357</updated>
+    </task>
+    <task id="LOCAL-00216" summary="update autosystem">
+      <created>1429170364214</created>
+      <updated>1429170364214</updated>
+    </task>
+    <task id="LOCAL-00217" summary="update autosystem">
+      <created>1429170590442</created>
+      <updated>1429170590442</updated>
+    </task>
+    <task id="LOCAL-00218" summary="update autosystem">
+      <created>1429170858953</created>
+      <updated>1429170858953</updated>
+    </task>
+    <task id="LOCAL-00219" summary="update autosystem">
+      <created>1429170912994</created>
+      <updated>1429170912997</updated>
+    </task>
+    <task id="LOCAL-00220" summary="update autosystem">
+      <created>1429170995976</created>
+      <updated>1429170995976</updated>
+    </task>
+    <task id="LOCAL-00221" summary="update autosystem">
+      <created>1429171040412</created>
+      <updated>1429171040412</updated>
+    </task>
+    <task id="LOCAL-00222" summary="update autosystem">
+      <created>1429171137395</created>
+      <updated>1429171137395</updated>
+    </task>
+    <task id="LOCAL-00223" summary="update autosystem">
+      <created>1429172813462</created>
+      <updated>1429172813462</updated>
+    </task>
+    <task id="LOCAL-00224" summary="update autosystem">
+      <created>1429172928621</created>
+      <updated>1429172928622</updated>
+    </task>
+    <task id="LOCAL-00225" summary="update autosystem">
+      <created>1429173001935</created>
+      <updated>1429173001935</updated>
+    </task>
+    <task id="LOCAL-00226" summary="update autosystem">
+      <created>1429173494691</created>
+      <updated>1429173494692</updated>
+    </task>
+    <task id="LOCAL-00227" summary="update autosystem">
+      <created>1429173561062</created>
+      <updated>1429173561062</updated>
+    </task>
+    <task id="LOCAL-00228" summary="update autosystem">
+      <created>1429174889456</created>
+      <updated>1429174889457</updated>
+    </task>
+    <task id="LOCAL-00229" summary="update autosystem">
+      <created>1429174913702</created>
+      <updated>1429174913702</updated>
+    </task>
+    <task id="LOCAL-00230" summary="update autosystem">
+      <created>1429175048045</created>
+      <updated>1429175048045</updated>
+    </task>
+    <task id="LOCAL-00231" summary="update autosystem">
+      <created>1429175410641</created>
+      <updated>1429175410641</updated>
+    </task>
+    <task id="LOCAL-00232" summary="update autosystem">
+      <created>1429234855841</created>
+      <updated>1429234855841</updated>
+    </task>
+    <task id="LOCAL-00233" summary="update autosystem">
+      <created>1429234887055</created>
+      <updated>1429234887055</updated>
+    </task>
+    <task id="LOCAL-00234" summary="update autosystem">
+      <created>1429235140606</created>
+      <updated>1429235140606</updated>
+    </task>
+    <task id="LOCAL-00235" summary="update autosystem">
+      <created>1429238125301</created>
+      <updated>1429238125301</updated>
+    </task>
+    <task id="LOCAL-00236" summary="update autosystem">
+      <created>1429239262785</created>
+      <updated>1429239262785</updated>
+    </task>
+    <task id="LOCAL-00237" summary="update autosystem">
+      <created>1429239327216</created>
+      <updated>1429239327216</updated>
+    </task>
+    <task id="LOCAL-00238" summary="update autosystem">
+      <created>1429240241613</created>
+      <updated>1429240241613</updated>
+    </task>
+    <task id="LOCAL-00239" summary="update autosystem">
+      <created>1429240394438</created>
+      <updated>1429240394459</updated>
+    </task>
+    <task id="LOCAL-00240" summary="update autosystem">
+      <created>1429240657986</created>
+      <updated>1429240657986</updated>
+    </task>
+    <task id="LOCAL-00241" summary="update autosystem">
+      <created>1429240915376</created>
+      <updated>1429240915376</updated>
+    </task>
+    <task id="LOCAL-00242" summary="update autosystem">
+      <created>1429241130154</created>
+      <updated>1429241130154</updated>
+    </task>
+    <task id="LOCAL-00243" summary="update autosystem">
+      <created>1429241632839</created>
+      <updated>1429241632839</updated>
+    </task>
+    <task id="LOCAL-00244" summary="update autosystem">
+      <created>1429241707026</created>
+      <updated>1429241707026</updated>
+    </task>
+    <task id="LOCAL-00245" summary="update autosystem">
+      <created>1429241781306</created>
+      <updated>1429241781306</updated>
+    </task>
+    <task id="LOCAL-00246" summary="update autosystem">
+      <created>1429241842780</created>
+      <updated>1429241842780</updated>
+    </task>
+    <task id="LOCAL-00247" summary="update autosystem">
+      <created>1429241896245</created>
+      <updated>1429241896245</updated>
+    </task>
+    <task id="LOCAL-00248" summary="update autosystem">
+      <created>1429242025038</created>
+      <updated>1429242025038</updated>
+    </task>
+    <task id="LOCAL-00249" summary="update autosystem">
+      <created>1429242116462</created>
+      <updated>1429242116462</updated>
+    </task>
+    <task id="LOCAL-00250" summary="update autosystem">
+      <created>1429242201441</created>
+      <updated>1429242201441</updated>
+    </task>
+    <task id="LOCAL-00251" summary="update autosystem">
+      <created>1429242257122</created>
+      <updated>1429242257122</updated>
+    </task>
+    <task id="LOCAL-00252" summary="update autosystem">
+      <created>1429242350716</created>
+      <updated>1429242350716</updated>
+    </task>
+    <task id="LOCAL-00253" summary="update autosystem">
+      <created>1429242415147</created>
+      <updated>1429242415147</updated>
+    </task>
+    <task id="LOCAL-00254" summary="update autosystem">
+      <created>1429242575160</created>
+      <updated>1429242575161</updated>
+    </task>
+    <task id="LOCAL-00255" summary="update autosystem">
+      <created>1429247949380</created>
+      <updated>1429247949380</updated>
+    </task>
+    <task id="LOCAL-00256" summary="update autosystem">
+      <created>1429248060693</created>
+      <updated>1429248060693</updated>
+    </task>
+    <task id="LOCAL-00257" summary="update autosystem">
+      <created>1429248128965</created>
+      <updated>1429248128966</updated>
+    </task>
+    <task id="LOCAL-00258" summary="update autosystem">
+      <created>1429248233417</created>
+      <updated>1429248233417</updated>
+    </task>
+    <task id="LOCAL-00259" summary="update autosystem">
+      <created>1429248615563</created>
+      <updated>1429248615563</updated>
+    </task>
+    <task id="LOCAL-00260" summary="update autosystem">
+      <created>1429248722709</created>
+      <updated>1429248722709</updated>
+    </task>
+    <task id="LOCAL-00261" summary="update autosystem">
+      <created>1429248848963</created>
+      <updated>1429248848963</updated>
+    </task>
+    <task id="LOCAL-00262" summary="update autosystem">
+      <created>1429248914983</created>
+      <updated>1429248914983</updated>
+    </task>
+    <task id="LOCAL-00263" summary="update autosystem">
+      <created>1429248976639</created>
+      <updated>1429248976639</updated>
+    </task>
+    <task id="LOCAL-00264" summary="update autosystem">
+      <created>1429249073087</created>
+      <updated>1429249073087</updated>
+    </task>
+    <task id="LOCAL-00265" summary="update autosystem">
+      <created>1429249439011</created>
+      <updated>1429249439011</updated>
+    </task>
+    <task id="LOCAL-00266" summary="update autosystem">
+      <created>1429249737205</created>
+      <updated>1429249737205</updated>
+    </task>
+    <task id="LOCAL-00267" summary="update autosystem">
+      <created>1429249994510</created>
+      <updated>1429249994511</updated>
+    </task>
+    <task id="LOCAL-00268" summary="update autosystem">
+      <created>1429250109489</created>
+      <updated>1429250109490</updated>
+    </task>
+    <task id="LOCAL-00269" summary="update autosystem">
+      <created>1429250254559</created>
+      <updated>1429250254559</updated>
+    </task>
+    <task id="LOCAL-00270" summary="update autosystem">
+      <created>1429250544312</created>
+      <updated>1429250544312</updated>
+    </task>
+    <task id="LOCAL-00271" summary="update autosystem">
+      <created>1429250832768</created>
+      <updated>1429250832768</updated>
+    </task>
+    <task id="LOCAL-00272" summary="update autosystem">
+      <created>1429250913920</created>
+      <updated>1429250913920</updated>
+    </task>
+    <task id="LOCAL-00273" summary="update autosystem">
+      <created>1429251252100</created>
+      <updated>1429251252101</updated>
+    </task>
+    <task id="LOCAL-00274" summary="update autosystem">
+      <created>1429251402721</created>
+      <updated>1429251402721</updated>
+    </task>
+    <task id="LOCAL-00275" summary="update autosystem">
+      <created>1429251536597</created>
+      <updated>1429251536598</updated>
+    </task>
+    <task id="LOCAL-00276" summary="update autosystem">
+      <created>1429258878105</created>
+      <updated>1429258878111</updated>
+    </task>
+    <task id="LOCAL-00277" summary="update autosystem">
+      <created>1429492163018</created>
+      <updated>1429492163018</updated>
+    </task>
+    <task id="LOCAL-00278" summary="update autosystem">
+      <created>1429496634627</created>
+      <updated>1429496634627</updated>
+    </task>
+    <task id="LOCAL-00279" summary="update autosystem">
+      <created>1429496813535</created>
+      <updated>1429496813535</updated>
+    </task>
+    <task id="LOCAL-00280" summary="update autosystem">
+      <created>1429496910303</created>
+      <updated>1429496910304</updated>
+    </task>
+    <task id="LOCAL-00281" summary="update autosystem">
+      <created>1429497000991</created>
+      <updated>1429497000991</updated>
+    </task>
+    <task id="LOCAL-00282" summary="update autosystem">
+      <created>1429497119555</created>
+      <updated>1429497119555</updated>
+    </task>
+    <task id="LOCAL-00283" summary="update autosystem">
+      <created>1429497245466</created>
+      <updated>1429497245466</updated>
+    </task>
+    <task id="LOCAL-00284" summary="update autosystem">
+      <created>1429507640799</created>
+      <updated>1429507640800</updated>
+    </task>
+    <task id="LOCAL-00285" summary="update autosystem">
+      <created>1429507913611</created>
+      <updated>1429507913611</updated>
+    </task>
+    <task id="LOCAL-00286" summary="update autosystem">
+      <created>1429509486010</created>
+      <updated>1429509486011</updated>
+    </task>
+    <task id="LOCAL-00287" summary="update autosystem">
+      <created>1429509616905</created>
+      <updated>1429509616905</updated>
+    </task>
+    <task id="LOCAL-00288" summary="update autosystem">
+      <created>1429509778487</created>
+      <updated>1429509778488</updated>
+    </task>
+    <task id="LOCAL-00289" summary="update autosystem">
+      <created>1430209094012</created>
+      <updated>1430209094012</updated>
+    </task>
+    <task id="LOCAL-00290" summary="update autosystem">
+      <created>1430209244264</created>
+      <updated>1430209244264</updated>
+    </task>
+    <task id="LOCAL-00291" summary="update autosystem">
+      <created>1431930307240</created>
+      <updated>1431930307240</updated>
+    </task>
+    <task id="LOCAL-00292" summary="update autosystem">
+      <created>1431931462894</created>
+      <updated>1431931462894</updated>
+    </task>
+    <task id="LOCAL-00293" summary="update autosystem">
+      <created>1431931884592</created>
+      <updated>1431931884592</updated>
+    </task>
+    <task id="LOCAL-00294" summary="update autosystem">
+      <created>1431931993177</created>
+      <updated>1431931993178</updated>
+    </task>
+    <task id="LOCAL-00295" summary="update autosystem">
+      <created>1431933335950</created>
+      <updated>1431933335950</updated>
+    </task>
+    <task id="LOCAL-00296" summary="update autosystem">
+      <created>1431936105480</created>
+      <updated>1431936105480</updated>
+    </task>
+    <task id="LOCAL-00297" summary="update autosystem">
+      <created>1431936370022</created>
+      <updated>1431936370022</updated>
+    </task>
+    <task id="LOCAL-00298" summary="update autosystem">
+      <created>1431938084912</created>
+      <updated>1431938084912</updated>
+    </task>
+    <task id="LOCAL-00299" summary="update autosystem">
+      <created>1432545397341</created>
+      <updated>1432545397341</updated>
+    </task>
+    <task id="LOCAL-00300" summary="update autosystem">
+      <created>1432619120334</created>
+      <updated>1432619120334</updated>
+    </task>
+    <task id="LOCAL-00301" summary="update autosystem">
+      <created>1432619200347</created>
+      <updated>1432619200347</updated>
+    </task>
+    <task id="LOCAL-00302" summary="update autosystem">
+      <created>1432619212465</created>
+      <updated>1432619212465</updated>
+    </task>
+    <task id="LOCAL-00303" summary="update autosystem">
+      <created>1433134492325</created>
+      <updated>1433134492325</updated>
+    </task>
+    <task id="LOCAL-00304" summary="update autosystem">
+      <created>1433136551676</created>
+      <updated>1433136551676</updated>
+    </task>
+    <task id="LOCAL-00305" summary="update autosystem">
+      <created>1433325291297</created>
+      <updated>1433325291297</updated>
+    </task>
+    <task id="LOCAL-00306" summary="update autosystem">
+      <created>1433389959868</created>
+      <updated>1433389959869</updated>
+    </task>
+    <task id="LOCAL-00307" summary="update autosystem">
+      <created>1433390654039</created>
+      <updated>1433390654039</updated>
+    </task>
+    <task id="LOCAL-00308" summary="update autosystem">
+      <created>1433745190618</created>
+      <updated>1433745190618</updated>
+    </task>
+    <task id="LOCAL-00309" summary="update autosystem">
+      <created>1433746173996</created>
+      <updated>1433746173996</updated>
+    </task>
+    <task id="LOCAL-00310" summary="update autosystem">
+      <created>1434527863110</created>
+      <updated>1434527863111</updated>
+    </task>
+    <task id="LOCAL-00311" summary="update autosystem">
+      <created>1435652702513</created>
+      <updated>1435652702513</updated>
+    </task>
+    <task id="LOCAL-00312" summary="update autosystem">
+      <created>1435652710146</created>
+      <updated>1435652710146</updated>
+    </task>
+    <task id="LOCAL-00313" summary="update autosystem">
+      <created>1435737359825</created>
+      <updated>1435737359825</updated>
+    </task>
+    <option name="localTasksCounter" value="314" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1634" height="1066" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1749073" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32912987" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18369566" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="update autosystem" />
+    <option name="LAST_COMMIT_MESSAGE" value="update autosystem" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/script/getOnlineSMS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="20" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/getNewRep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="465" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/updateCode">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/checkRepExist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="49" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/tmp/userExists">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="23" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="1501" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="34" selection-start="1300" selection-end="1314" vertical-scroll-proportion="0.0" vertical-offset="950" max-vertical-offset="1273" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1767" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="32" selection-start="1853" selection-end="1853" vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1881" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/flush_memory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/user/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="5" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.0" vertical-offset="1414" max-vertical-offset="5301" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="96" selection-start="1809" selection-end="1809" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="1805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="16" selection-start="1126" selection-end="1126" vertical-scroll-proportion="0.0" vertical-offset="924" max-vertical-offset="1672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="23" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="1501" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bll/codeOperateBll.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="31" selection-start="533" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="1197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/updateCode">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/device/device_Manage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="386" column="7" selection-start="13368" selection-end="13368" vertical-scroll-proportion="0.0" vertical-offset="7145" max-vertical-offset="11096" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/getNewRep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="37" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/tools/codeOperate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="15" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="2375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/tools/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="17" selection-start="8746" selection-end="8913" vertical-scroll-proportion="0.0" vertical-offset="5111" max-vertical-offset="7961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ToolsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="36" selection-start="4447" selection-end="4447" vertical-scroll-proportion="0.0" vertical-offset="2527" max-vertical-offset="3933">
+          <folding>
+            <marker date="1434527828745" expanded="true" signature="5683:5765" placeholder="select sMess..t_sms_log..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/checkRepExist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="49" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="744" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="17" selection-start="991" selection-end="1000" vertical-scroll-proportion="0.47969264" vertical-offset="0" max-vertical-offset="12977" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/jquery/interface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="713" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="23" selection-start="916" selection-end="916" vertical-scroll-proportion="0.0" vertical-offset="749" max-vertical-offset="1672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="23" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1501" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="32" selection-start="1617" selection-end="1617" vertical-scroll-proportion="0.19148937" vertical-offset="665" max-vertical-offset="1805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/tools/codeOperate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="568" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="2375">
+          <folding>
+            <marker date="1431942694587" expanded="false" signature="2237:2284" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bll/codeOperateBll.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="10" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="2242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/global/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="917">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/device/device_Manage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="25" selection-start="1971" selection-end="1982" vertical-scroll-proportion="0.0" vertical-offset="1079" max-vertical-offset="11096" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/user/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="15" selection-start="146" selection-end="157" vertical-scroll-proportion="47.11111" vertical-offset="1424" max-vertical-offset="2090" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="59" selection-start="489" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="2185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="16" selection-start="1259" selection-end="1261" vertical-scroll-proportion="-3.3090909" vertical-offset="730" max-vertical-offset="1273" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/DeviceManageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="63" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="3819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="628" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="836">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="48" selection-start="2795" selection-end="2795" vertical-scroll-proportion="-9.964286" vertical-offset="994" max-vertical-offset="1577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="43" selection-start="3588" selection-end="3588" vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="3743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/tools/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="36" selection-start="5541" selection-end="5555" vertical-scroll-proportion="0.0" vertical-offset="2808" max-vertical-offset="9443">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="59" selection-start="2157" selection-end="2171" vertical-scroll-proportion="0.0" vertical-offset="1520" max-vertical-offset="1862" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ToolsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="67" selection-start="4203" selection-end="4203" vertical-scroll-proportion="0.0" vertical-offset="2109" max-vertical-offset="6422">
+          <folding>
+            <marker date="1434527828745" expanded="true" signature="5683:5765" placeholder="select sMess..t_sms_log..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/getOnlineSMS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="38" selection-start="621" selection-end="646" vertical-scroll-proportion="0.64654225" vertical-offset="0" max-vertical-offset="911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/getNewRep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.47969264" vertical-offset="0" max-vertical-offset="911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/flush_memory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="134" selection-end="134" vertical-scroll-proportion="0.18770581" vertical-offset="0" max-vertical-offset="911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/checkRepExist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="223" selection-end="223" vertical-scroll-proportion="0.18770581" vertical-offset="0" max-vertical-offset="911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/updateCode">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.25027442" vertical-offset="0" max-vertical-offset="911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/tmp/userExists">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/script/autobuild">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="538" selection-end="538" vertical-scroll-proportion="0.22832052" vertical-offset="172" max-vertical-offset="1159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

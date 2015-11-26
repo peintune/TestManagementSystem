@@ -1,0 +1,56 @@
+
+#!/bin/bash
+#author:hekun
+export JAVA_HOME=/usr/lib/jdk1.8.0_45
+CurPath=$(pwd);
+array_server=(
+admin@*3:d:/auto-test/wtd-mastertest/lib
+admin@10.*3:d:/auto-test/wtd-online/lib
+admin@10*7:d:/auto-test/wtd-mastertest/lib
+#admin@*:d:/auto-test/wtd-mastertest/lib
+)
+
+function updateWtdProject
+{
+if [ ! -d "$CurPath/wtd-autobuild" ];then
+git clone * $CurPath/wtd-autobuild;
+else
+rm -rf $CurPath/wtd-autobuild;
+git clone * $CurPath/wtd-autobuild;
+fi
+}
+
+function builProject
+{
+cd $CurPath/wtd-autobuild;
+ant;
+if [ "$?" == 0 ];then
+echo "build success!!!";
+else
+echo "build faild!!!!!";
+fi
+}
+
+function scpCmd
+{
+from=$1
+to=$2
+password=$3
+expect -c "
+spawn scp ${from} ${to}
+expect \"password:\"
+send \"${password}\r\"
+expect eof
+"
+}
+
+function deploy
+{
+for (( i=0;i<${#array_server[@]};i++ ))
+do
+scpCmd $CurPath/wtd-autobuild/lib/wtd.jar ${array_server[$i]} *@* &
+done
+}
+updateWtdProject
+builProject
+deploy

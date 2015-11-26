@@ -1,0 +1,38 @@
+#!/usr/bin/expect  -f
+set mobile [lindex $argv 0]
+set logfile [lindex $argv 1]
+log_file $logfile
+
+spawn -* ssh -tt  *@*
+#spawn telnet *
+log_user 0
+expect {
+"yes/no" { send "yes\r" }
+"assword:" { send "*\r" }
+}
+
+expect {
+ -re "\u5668:" {
+#term_init
+exp_send "0\r"
+exp_sleep 1
+exp_send "\r"
+exp_sleep 1
+exp_send "0\r"
+}
+}
+expect "$"
+send "mysql -u * -*@l1 -h*4 -*\r"
+expect "mysql>"
+send "use *;\r"
+expect "mysql>"
+send " select sMessage from * where *=$* order by * desc limit 1;\r"
+log_user 1
+expect ">"
+#expect -re "(\-{5})\+\\r\\n\|(\d|\D)*"
+send_user "$expect_out(buffer)\n"
+expect eof
+exit
+
+
+

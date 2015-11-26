@@ -1,0 +1,9 @@
+#!/usr/bin/expect -f
+spawn telnet * *
+expect "Escape character is '^]'."
+send "flush_all\r"
+send "quit\r"
+expect eof
+
+
+

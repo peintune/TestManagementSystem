@@ -1,0 +1,83 @@
+
+html,body{
+    height:100%;
+    width: 100%;
+    margin:0px;
+}
+
+/*页面层容器*/
+#container {
+    width:100%;
+    height:100%;
+    background-image:url(/img/homebg.jpg);
+    -moz-background-size:cover;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    margin:0px;
+    padding:0px;
+}
+
+/*页面主体*/
+#PageBody {
+    position:fixed;top:5;
+
+    float:left;
+    height:94%;
+    width:100%;
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+
+/*右边栏*/
+#Sidebar {
+    position:fixed;top:5;
+
+    float:left;
+    height:94%;
+    width:100%;
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+
+/*主体区域*/
+#MainBody {
+    position:fixed;top:5;
+
+    float:left;
+    height:94%;
+    width:100%;
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+
+/*页面底部*/
+#Footer {
+    position:fixed;bottom:0;
+    background-image:url(/img/fooder.png);
+    float:left;
+    width: 750px;
+    height:55px;
+    margin-bottom: 0px;
+    margin-left: 360px;
+    filter:alpha(opacity=40);
+    -moz-opacity:0.4;
+    -khtml-opacity: 0.4;
+    opacity: 0.4;
+}
+#Icons {
+    position:fixed;bottom:0;
+    float:left;
+    width: 700px;
+    height:70px;
+    margin-bottom: 8px;
+    margin-left: 30px;
+}
+
+input.big:hover{
+-webkit-transform:scale(1.2);
+}
+input.ex:hover,input.ex:active {font-size:150%;}

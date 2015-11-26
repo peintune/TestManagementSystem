@@ -1,0 +1,21 @@
+#!/usr/bin/expect -f
+
+set mainFolder [ lindex $argv 0 ]
+set type [ lindex $argv 1 ]
+set branch [ lindex $argv 2 ]
+set gitAddress [ lindex $argv 3 ]
+spawn ssh *@*
+expect {
+"yes/no" { send "yes\r";exp_continue }
+"password:" { send "*\r" }
+}
+expect "~"
+
+
+send "telnet * *\r"
+send "flush_all\r"
+send "quit\r"
+expect eof
+
+
+
