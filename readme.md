@@ -1,29 +1,46 @@
-## Laravel PHP Framework
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+## 介绍：
+这个测试管理系统是基于laravel开发的，前端JS用的是extjs的控件。主要用到了extjs的窗口控件，把整个网页做出和苹果(mac)界面类似的界面。
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+## 快速安装搭建：
+#### 在linux服务器上安装php,mysql,apache
+```
+sudo apt-get update
+sudo apt-get install apache2
+sudo apt-get install php5
+sudo apt-get install php5-gd
+sudo apt-get install mycrypt php5-mcrypt
+sudo php5enmod mcrypt
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+```
+在 /etc/php/module-available中创建mcrypt.ini
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+不熟悉的同学可以参考其他更详细的安装步骤：
 
-## Official Documentation
+http://www.banwagong.me/90.html
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+http://www.linuxidc.com/Linux/2015-08/121986.htm
 
-### Contributing To Laravel
+#### 下载TestManagementSystem
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+-下载TestManagementSystem解压后制项目到/var/www下面去
 
-### License
+- 修改对于数据库配置信息
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+- 修改/etc/apachec2/avalable-sites
+
+- 重启apache,nginx,php
+
+```
+/etc/init.d/nginx start
+/etc/init.d/php7.0-fpm start
+```
+
+## 通过浏览器打开系统(端口设置在你的apache中设置)：
+http://localhost:8080
+
+## 网页界面：
 
 
-### 介绍
-基于laravel + extjs 的管理系统
+
+个人技术博客：blog.jpmovie.cn
