@@ -41,6 +41,6 @@ http://localhost:8080
 
 ## 网页界面：
 
-![网页界面](https://github.com/peintune/TestManagementSystem/edit/master/0109_1.jpg)
+![网页界面](https://github.com/peintune/TestManagementSystem/raw/master/0109_1.jpg)
 
 个人技术博客：blog.jpmovie.cn
